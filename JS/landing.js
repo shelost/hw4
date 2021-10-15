@@ -62,7 +62,7 @@ let ELEMS =
         type: "item",
         title: 'Ellis Lab Stuff',
         subtitle: 'A bunch of thought experiments',
-        img: `_ellis`,
+        img: `ellis`,
         stroke: false,
         class: ['blue'],
         blurb: `Build, jump, slide! Following in the footsteps of one of the oldest genres in gaming,
@@ -88,7 +88,7 @@ let ELEMS =
         type: "item",
         title: 'Platformr',
         subtitle: 'Web <span> & </span> Android Game',
-        img: `_platformr`,
+        img: `platformr`,
         stroke: true,
         class: ['blue'],
         blurb: `Build, jump, slide! Following in the footsteps of one of the oldest genres in gaming,
@@ -116,7 +116,7 @@ let ELEMS =
         type: "item",
         title: 'Rooms',
         subtitle: 'Web Game',
-        img: `_rooms`,
+        img: `rooms`,
         class: ['purple'],
         blurb: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
         eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -137,7 +137,7 @@ let ELEMS =
         type: "item",
         title: 'Just Orbiting By',
         subtitle: 'Web Game',
-        img: `_orbiting`,
+        img: `orbiting`,
         stroke: true,
         class: ['blue'],
         blurb: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -159,7 +159,7 @@ let ELEMS =
         type: "item",
         title: 'Trails',
         subtitle: 'Web Game',
-        img: `_trails`,
+        img: `trails`,
         stroke: false,
         class: ['red'],
         blurb: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -186,7 +186,7 @@ let ELEMS =
         type: "item",
         title: 'WOLF Financial',
         subtitle: 'Website for FinTech startup',
-        img: `_wolf`,
+        img: `wolf`,
         stroke: false,
         class: ['blue'],
         blurb: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -207,7 +207,7 @@ let ELEMS =
             },
             {
             title: 'Android',
-            href: 'https://play.google.com/store/apps/details?id=com.wolf.app&hl=en_US&gl=US'
+            href: 'https://play.google.com/store/apps/details?id=com.wolf.app&hl=enUS&gl=US'
             },
             {
                 title: '/'
@@ -222,7 +222,7 @@ let ELEMS =
         type: "item",
         title: 'Blaxbaum Consulting',
         subtitle: 'Website for student consulting firm',
-        img: `_blaxbaum`,
+        img: `blaxbaum`,
         stroke: true,
         class: ['purple'],
         blurb: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -251,19 +251,19 @@ let ELEMS =
         [
             {
                 type: "box",
-                img: "_email",
+                img: "email",
                 href: 'mailto:ha268@cornell.edu',
                 title: 'Email',
             },
             {
                 type: "box",
-                img: "_phone",
+                img: "phone",
                 href: 'tel:+16072792029',
                 title: 'Phone',
             },
             {
                 type: "box",
-                img: "_linkedin",
+                img: "linkedin",
                 href: 'https://www.linkedin.com/in/hwahn/',
                 title: 'LinkedIn',
             },
